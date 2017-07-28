@@ -10,7 +10,7 @@
     <modules>
         <Jarlssen_FasterAttributeOptionEdit>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
         </Jarlssen_FasterAttributeOptionEdit>
     </modules>
 </config>
